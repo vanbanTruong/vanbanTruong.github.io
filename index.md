@@ -4,20 +4,21 @@ title: Wenbin Zhang | 张雯斌
 ---
 	
 	
-# Wenbin Zhang #
+# Wenbin Zhang 张雯斌 #
 
 <img src="img/taif.jpg" alt="Photo" class="leftside_image">
 
-I am a [Hakka](https://en.wikipedia.org/wiki/Hakka_people) born PhD student in [Computer Science](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by [Moritz Hardt](http://www.moritzhardt.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) <sup>&alpha;</sup>. I am affiliated with [RISELab](http://rise.cs.berkeley.edu/) and [BAIR](http://bair.berkeley.edu/).
-I obtained my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University, where I was fortunate to work with [Amit Singer](https://web.math.princeton.edu/~amits/), [Han Liu](https://www.princeton.edu/~hanliu/), and [Barbara Engelhardt](https://www.cs.princeton.edu/~bee/). Before that, I spent a wonderful summer at Microsoft Research, Cambridge with the [Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/reinforcement-learning-group/), mentored by Urun Dogan and [Katja Hofmann](https://www.microsoft.com/en-us/research/people/kahofman/).
+I am a [Hakka](https://en.wikipedia.org/wiki/Hakka_people) born PhD student at [University of Maryland, Baltimore County](https://www.umbc.edu/). The main focus of my research is on designing machine learning algorithms that have theoretical performance guarantees and social consciousness. During my PhD, I also spent time at [L3S Research Center](https://www.l3s.de/de), [University of Milano-Bicocca](https://www.unimib.it/), [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), and [Télécom Paris](https://dig.telecom-paristech.fr/blog/). I had four Stendhal syndrome years in Beijing before started my study abroad in Newfoundland, where June snowed (not anymore due to global warming). 
 
-In 2019-20, I will be supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) and an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class).
+Outside of research, I enjoy watching and playing all kinds of sports especially football. I had my life experience at [Kaliningrad Stadium](https://en.wikipedia.org/wiki/Kaliningrad_Stadium) cheering 2018 World Cup Russia. I run my first Marathon at Virginia Beach credit to [November Project](https://november-project.com/baltimore-md/). Also, I believe Manchester is red. 
 
-I'm interested in designing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
+require 'octokit'
+
+#I'm interested in designing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 
 Outside of research, I enjoy photography, music, and <a href="/writing">poetry</a>.
 			
-Email: `lydiatliu_at_berkeley_dot_edu`
+Email: `wenbinzhang_at_umbc_dot_edu`
 
 <sub><sup>&alpha;</sup> alphabetical order </sub>
 
