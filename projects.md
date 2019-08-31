@@ -4,6 +4,7 @@ title: Research
 ---
 
 ### Publications
+For a full list of publications, visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=M802p54AAAAJ).
 
 * Wenbin Zhang and Eirini Ntoutsi. **FAHT: An Adaptive Fairness-aware Decision Tree Classifier.** *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)*, Macau, China, 2019. [[paper]](https://www.ijcai.org/proceedings/2019/0205.pdf) [[code]](https://github.com/vanbanTruong/FAHT) 
  
