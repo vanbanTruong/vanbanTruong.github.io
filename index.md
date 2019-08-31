@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Lydia T. Liu | University of California, Berkeley
+---
+	
+	
+# Lydia T. Liu #
 
-You can use the [editor on GitHub](https://github.com/vanbanTruong/vanbanTruong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="img/francis.jpg" alt="Photo" class="leftside_image">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student in [Computer Science](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by [Moritz Hardt](http://www.moritzhardt.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) <sup>&alpha;</sup>. I am affiliated with [RISELab](http://rise.cs.berkeley.edu/) and [BAIR](http://bair.berkeley.edu/).
+I obtained my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University, where I was fortunate to work with [Amit Singer](https://web.math.princeton.edu/~amits/), [Han Liu](https://www.princeton.edu/~hanliu/), and [Barbara Engelhardt](https://www.cs.princeton.edu/~bee/). Before that, I spent a wonderful summer at Microsoft Research, Cambridge with the [Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/reinforcement-learning-group/), mentored by Urun Dogan and [Katja Hofmann](https://www.microsoft.com/en-us/research/people/kahofman/).
 
-### Markdown
+In 2019-20, I will be supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) and an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm interested in designing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 
-```markdown
-Syntax highlighted code block
+Outside of research, I enjoy photography, music, and <a href="/writing">poetry</a>.
+			
+Email: `lydiatliu_at_berkeley_dot_edu`
 
-# Header 1
-## Header 2
-### Header 3
+<sub><sup>&alpha;</sup> alphabetical order </sub>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vanbanTruong/vanbanTruong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
