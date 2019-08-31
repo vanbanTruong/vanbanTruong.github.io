@@ -9,7 +9,7 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 * Wenbin Zhang and Eirini Ntoutsi. **FAHT: An Adaptive Fairness-aware Decision Tree Classifier.** *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)*, Macau, China, 2019 (Acceptance rate: 850/4752=17.9%). [[paper]](https://www.ijcai.org/proceedings/2019/0205.pdf) [[code]](https://github.com/vanbanTruong/FAHT) 
  
 
-* Wenbin Zhang, Jianwu Wang, Daeho Jin, Lazaros Oreopoulos and Zhibo Zhang. **Automated Rehabilitation Exercises Assessment in Wearable Sensor Data Streams.** *IEEE International Conference on Big Data (BigData)*, Seattle, USA, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8622558)
+* Wenbin Zhang, Jianwu Wang, Daeho Jin, Lazaros Oreopoulos and Zhibo Zhang. **A Deterministic Self-Organizing Map Approach and its Application on Satellite Data based Cloud Type Classification.** *IEEE International Conference on Big Data (BigData)*, Seattle, USA, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8622558)
 
 * Antonio Candelieri, Wenbin Zhang, Enza Messina and Francesco Archetti. **Automated Rehabilitation Exercises Assessment in Wearable Sensor Data Streams.** *IEEE International Conference on Big Data (BigData), Poster Track*, Seattle, USA, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8622558)
 
