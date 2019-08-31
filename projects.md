@@ -3,15 +3,10 @@ layout: default
 title: Research
 ---
 
-### Preprints
-
-* Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan. **Competing Bandits in Matching Markets.** *arXiv preprint arXiv:1906.05363*, 2019. [[arxiv]](https://arxiv.org/abs/1906.05363)
-
-* Zhizhen Zhao, Lydia T. Liu, Amit Singer. **Steerable *e*PCA.** *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
-
 ### Publications
 
-* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **The implicit fairness criterion of unconstrained learning.** *Proceedings of the 36th International Conference on Machine Learning (ICML)*, Long Beach, CA, USA, 2019. [[arxiv]](https://arxiv.org/abs/1808.10013) [[code]](https://github.com/lydiatliu/unconstrainedml) 
+* Wenbin Zhang and Eirini Ntoutsi. **FAHT: An Adaptive Fairness-aware Decision Tree Classifier.** *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)*, Macau, China, 2019. [[paper]](https://www.ijcai.org/proceedings/2019/0205.pdf) [[code]](https://github.com/vanbanTruong/FAHT) 
+ 
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NeurIPS) 32*, Montréal, Canada, 2018. ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
 
