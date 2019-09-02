@@ -17,6 +17,7 @@ Outside of research, I enjoy watching and playing all kinds of sports especially
 -red```.
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+<span style="color:orange;">Word up</span>
 		
 Email: `wenbinzhang[at]umbc.edu`
 
