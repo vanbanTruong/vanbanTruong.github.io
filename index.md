@@ -14,7 +14,7 @@ During my PhD, I also spent time at [L3S Research Center](https://www.l3s.de/de)
 
 Outside of research, I enjoy watching and playing all kinds of sports especially football. I had my life experience at [Kaliningrad Stadium](https://en.wikipedia.org/wiki/Kaliningrad_Stadium) cheering 2018 World Cup Russia. I run my very first Marathon at [Virginia Beach](https://www.shamrockmarathon.com/) credit to [November Project](https://november-project.com/baltimore-md/). Also, I believe Manchester is red. 
 		
-Email: `wenbinzhang_at_umbc_dot_edu`
+Email: `wenbinzhang[at]umbc.edu`
 
 
 
