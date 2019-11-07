@@ -18,7 +18,10 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 
 * *Wenbin Zhang* and Jianwu Wang. **A Hybrid Learning Framework for Imbalanced Stream Classification.** *IEEE International Congress on Big Data (BigData Congress)*, Honolulu, USA, 2017. [[paper]](/assets/BigDataCongress17.pdf)
 
+### Talks
 
+* **FAHT: An Adaptive Fairness-aware Decision Tree Classifier**
+  * Youth Forum, Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong, China. 2019. [[slides]](/assets/faht.pdf)
 
 
 
