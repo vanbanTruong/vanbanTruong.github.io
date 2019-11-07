@@ -21,7 +21,7 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 ### Talks
 
 * **FAHT: An Adaptive Fairness-aware Decision Tree Classifier**
-  * Youth Forum, Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong, China, 2019. [[slides]](/assets/faht.pdf)
+  * Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong, China, 2019. [[slides]](/assets/faht.pdf)
 
 
 
