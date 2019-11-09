@@ -23,7 +23,7 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 * **FAHT: An Adaptive Fairness-aware Decision Tree Classifier**
   * Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong, China, 2019. [[slides]](/assets/faht.pdf)
   
-* **FAHT: Learning in Data Streams and a Deterministic Manner**
+* **Learning in Data Streams and a Deterministic Manner**
   * University of Milano-Bicocca, Milan, Italy, 2019.
 
 
