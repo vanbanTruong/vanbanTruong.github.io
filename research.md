@@ -25,7 +25,7 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
   * Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong, China, 2019. [[slides]](/assets/faht.pdf)
   
   
-* **Learning in Data Streams and a Deterministic Manner**
+* **Learning in Data Streams and A Deterministic Manner**
   * University of Milano-Bicocca, Milan, Italy, 2019.
 
 
