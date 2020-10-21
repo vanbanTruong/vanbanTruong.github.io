@@ -5,7 +5,7 @@ title: Research
 
 ### Preprints
 
-* *Wenbin Zhang*, Liming Zhang, Dieter Pfoser, Liang Zhao. **Disentangled Dynamic Graph Deep Generation.** [[paper]](https://arxiv.org/pdf/2010.07276.pdf)
+<!--** *Wenbin Zhang*, Liming Zhang, Dieter Pfoser, Liang Zhao. **Disentangled Dynamic Graph Deep Generation.** [[paper]](https://arxiv.org/pdf/2010.07276.pdf)-->
 
 
 ### Recent Publications
