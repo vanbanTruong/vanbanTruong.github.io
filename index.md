@@ -4,7 +4,7 @@ title: Wenbin Zhang | 张雯斌
 ---
 	
 	
-# Wenbin Zhang 张雯斌 #
+# Wenbin Zhang#
 
 <img src="img/taif.jpg" alt="Photo" class="leftside_image">
 
