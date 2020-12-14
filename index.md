@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wenbin Zhang | <!--张雯斌-->
+title: Wenbin Zhang <!--| 张雯斌-->
 ---
 	
 	
