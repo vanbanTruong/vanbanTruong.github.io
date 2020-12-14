@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wenbin Zhang <!--| 张雯斌-->
+title: Wenbin Zhang 
 ---
 	
 	
@@ -8,6 +8,7 @@ title: Wenbin Zhang <!--| 张雯斌-->
 
 <img src="img/taif.jpg" alt="Photo" class="leftside_image">
 
+<!--| 张雯斌-->
 <!--I recently defended my Ph.D. dissertation at the [University of Maryland, Baltimore County](https://www.umbc.edu/). The main focus of my research is on designing machine learning algorithms that have theoretical performance guarantees and social consciousness. Read about my [research](/research).-->
 
 I am a [Hakka](https://en.wikipedia.org/wiki/Hakka_people) born Ph.D. student at [University of Maryland, Baltimore County](https://www.umbc.edu/). The main focus of my research is on designing machine learning algorithms that have theoretical performance guarantees and social consciousness. Read about my [research](/research).
