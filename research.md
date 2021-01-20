@@ -13,7 +13,7 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 
 <!--* *Wenbin Zhang* and Albert Bifet. **FEAT: A Fairness-enhancing and Concept-adapting Decision Tree Classifier.** *Proceedings of the 23rd International Conference on Discovery Science (DS)*, online, 2020. [[paper]](/assets/DS20.pdf)-->
 
-* *Wenbin Zhang*, Liming Zhang, Dieter Pfoser, Liang Zhao. **Disentangled Dynamic Graph Deep Generation.** *Proceedings of the SIAM International Conference on Data Mining (SDM)*, online, 2021. [[paper]](/assets/SDM21.pdf) [[code]](/assets/SDM21.pdf)
+* *Wenbin Zhang*, Liming Zhang, Dieter Pfoser, Liang Zhao. **Disentangled Dynamic Graph Deep Generation.** *Proceedings of the SIAM International Conference on Data Mining (SDM)*, online, 2021. [[paper]](/assets/SDM21.pdf) [[code]](https://github.com/vanbanTruong/D2G2)
 
 * Mingli Zhang, Xin Zhao, *Wenbin Zhang*, Ahmad Chaddad, Jean-Baptiste Poline and Alan Evans. **Deep Discriminative Learning for Predicting Autism Spectrum Disorder.** *Proceedings of the 31st International Conference on Databases and Expert Systems Applications (DEXA)*, online, 2020. [[paper]](/assets/DEXA20.pdf)
 
