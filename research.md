@@ -28,10 +28,9 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 
 * Mingli Zhang, Xin Zhao, *Wenbin Zhang*, Ahmad Chaddad, Jean-Baptiste Poline and Alan Evans. **Deep Discriminative Learning for Predicting Autism Spectrum Disorder.** *Proceedings of the 31st International Conference on Databases and Expert Systems Applications (DEXA)*, online, 2020. [[paper]](/assets/DEXA20.pdf)
 
-* *Wenbin Zhang*, Xuejiao Tang and Jianwu Wang. **On Fairness-aware Learning for Non-discriminative Decision-making.** *IEEE International Conference on Data Mining (ICDM), PhD Forum Track*, Beijing, China, 2019. [[paper]](/assets/IJCAI19.pdf)
-
 * *Wenbin Zhang* and Eirini Ntoutsi. **FAHT: An Adaptive Fairness-aware Decision Tree Classifier.** *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)*, Macau, China, 2019. [[paper]](/assets/IJCAI19.pdf) [[code]](https://github.com/vanbanTruong/FAHT) 
- 
+
+* *Wenbin Zhang*, Xuejiao Tang and Jianwu Wang. **On Fairness-aware Learning for Non-discriminative Decision-making.** *IEEE International Conference on Data Mining (ICDM), PhD Forum Track*, Beijing, China, 2019. [[paper]](/assets/IJCAI19.pdf)
 
 * *Wenbin Zhang*, Jianwu Wang, Daeho Jin, Lazaros Oreopoulos and Zhibo Zhang. **A Deterministic Self-Organizing Map Approach and its Application on Satellite Data based Cloud Type Classification.** *IEEE International Conference on Big Data (BigData)*, Seattle, USA, 2018. [[paper]](/assets/BigData18.pdf) [[code]](https://github.com/vanbanTruong/deterministicSOM)
 
