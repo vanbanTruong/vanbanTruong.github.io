@@ -19,14 +19,13 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 * Zhen Liu, Nathalie Japkowicz, Deyu Tang, *Wenbin Zhang* and Jie Zhao. **Research on Unsupervised Feature Learning for Android Malware Detection based on Restricted Boltzmann Machines.** *Future Generation Computer Systems*. [[paper]](/assets/FGCS21.pdf)
 
 
-* Mingli Zhang, Xin Zhao, *Wenbin Zhang*, Ahmad Chaddad, Jean-Baptiste Poline and Alan Evans. **Deep Discriminative Learning for Predicting Autism Spectrum Disorder.** *Proceedings of the 31st International Conference on Databases and Expert Systems Applications (DEXA)*, online, 2020. [[paper]](/assets/DEXA20.pdf)
-
-
 * *Wenbin Zhang*, Mingli Zhang, Ji Zhang, Zhen Liu, Zhiyuan Chen, Jianwu Wang, Edward Raff and Enza Messina. **Flexible and Adaptive Fairness-aware Learning in Non-stationary Data Streams.** *Proceedings of the 32nd International Conference on Tools with Artificial Intelligence (ICTAI)*, online, 2020. [[paper]](/assets/ICTAI20.pdf)
 
 
 * Liming Zhang, *Wenbin Zhang* and Nathalie Japkowicz. **Conditional-UNet: A Condition-aware Deep Model for Coherent Human Activity Recognition From Wearables.** *Proceedings of the 25th International Conference on Pattern Recognition (ICPR)*, online, 2020. [[paper]](/assets/ICPR20.pdf) [[code]](https://github.com/tongjiyiming/Conditional-UNet)
 
+
+* Mingli Zhang, Xin Zhao, *Wenbin Zhang*, Ahmad Chaddad, Jean-Baptiste Poline and Alan Evans. **Deep Discriminative Learning for Predicting Autism Spectrum Disorder.** *Proceedings of the 31st International Conference on Databases and Expert Systems Applications (DEXA)*, online, 2020. [[paper]](/assets/DEXA20.pdf)
 
 * *Wenbin Zhang* and Albert Bifet. **FEAT: A Fairness-enhancing and Concept-adapting Decision Tree Classifier.** *Proceedings of the 23rd International Conference on Discovery Science (DS)*, online, 2020. [[paper]](/assets/DS20.pdf)
 
