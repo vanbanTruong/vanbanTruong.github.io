@@ -24,11 +24,9 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 
 * Liming Zhang, *Wenbin Zhang* and Nathalie Japkowicz. **Conditional-UNet: A Condition-aware Deep Model for Coherent Human Activity Recognition From Wearables.** *Proceedings of the 25th International Conference on Pattern Recognition (ICPR)*, online, 2020. [[paper]](/assets/ICPR20.pdf) [[code]](https://github.com/tongjiyiming/Conditional-UNet)
 
-
-* Mingli Zhang, Xin Zhao, *Wenbin Zhang*, Ahmad Chaddad, Jean-Baptiste Poline and Alan Evans. **Deep Discriminative Learning for Predicting Autism Spectrum Disorder.** *Proceedings of the 31st International Conference on Databases and Expert Systems Applications (DEXA)*, online, 2020. [[paper]](/assets/DEXA20.pdf)
-
 * *Wenbin Zhang* and Albert Bifet. **FEAT: A Fairness-enhancing and Concept-adapting Decision Tree Classifier.** *Proceedings of the 23rd International Conference on Discovery Science (DS)*, online, 2020. [[paper]](/assets/DS20.pdf)
 
+* Mingli Zhang, Xin Zhao, *Wenbin Zhang*, Ahmad Chaddad, Jean-Baptiste Poline and Alan Evans. **Deep Discriminative Learning for Predicting Autism Spectrum Disorder.** *Proceedings of the 31st International Conference on Databases and Expert Systems Applications (DEXA)*, online, 2020. [[paper]](/assets/DEXA20.pdf)
 
 * *Wenbin Zhang*, Xuejiao Tang and Jianwu Wang. **On Fairness-aware Learning for Non-discriminative Decision-making.** *IEEE International Conference on Data Mining (ICDM), PhD Forum Track*, Beijing, China, 2019. [[paper]](/assets/IJCAI19.pdf)
 
