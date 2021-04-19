@@ -16,7 +16,7 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 * *Wenbin Zhang*, Liming Zhang, Dieter Pfoser, Liang Zhao. **Disentangled Dynamic Graph Deep Generation.** *Proceedings of the SIAM International Conference on Data Mining (SDM)*, online, 2021. [[paper]](/assets/SDM21.pdf) [[code]](https://github.com/vanbanTruong/D2G2) [[appendix]](/assets/SDM21_appendix.pdf)
 
 
-* Zhen Liu, Nathalie Japkowicz, Deyu Tang, *Wenbin Zhang* and Jie Zhao. **Research on Unsupervised Feature Learning for Android Malware Detection based on Restricted Boltzmann Machines.** *Future Generation Computer Systems*. [[paper]](/assets/FGCS21.pdf)
+* Zhen Liu, Nathalie Japkowicz, Deyu Tang, *Wenbin Zhang* and Jie Zhao. **Research on Unsupervised Feature Learning for Android Malware Detection based on Restricted Boltzmann Machines.** *Future Generation Computer Systems (FGCS)*. [[paper]](/assets/FGCS21.pdf)
 
 
 * *Wenbin Zhang*, Mingli Zhang, Ji Zhang, Zhen Liu, Zhiyuan Chen, Jianwu Wang, Edward Raff and Enza Messina. **Flexible and Adaptive Fairness-aware Learning in Non-stationary Data Streams.** *Proceedings of the 32nd International Conference on Tools with Artificial Intelligence (ICTAI)*, online, 2020. [[paper]](/assets/ICTAI20.pdf)
