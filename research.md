@@ -43,12 +43,17 @@ For a full list of publications, visit my [Google Scholar page](https://scholar.
 
 ### Talks
 
+* **Learning Fairness and Graph Deep Generation in Dynamic Environments**
+  * University of Waikato, online, October 2020.
+  * IEEE Queensland Section, online, October 2020.
+
 * **FAHT: An Adaptive Fairness-aware Decision Tree Classifier**
   * Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), Shandong, China, 2019. [[slides]](/assets/faht.pdf)
   
   
 * **Learning in Data Streams and a Deterministic Manner**
   * University of Milano-Bicocca, Milan, Italy, 2019.
+  * L3S Research Center, Hannover, Germany, June 2018.
 
 
 
